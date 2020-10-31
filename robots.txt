@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: /sitemap.xml
+Sitemap: http://ksxgroup.github.io/sitemap.xml
